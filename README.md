@@ -1,2 +1,2 @@
 # Sudoku
-A simple backtracking algorithm to solve sudoku puzzles and present all possible solutions.
+A backtracking algorithm implementation to solve sudoku puzzles and present all possible solutions.
